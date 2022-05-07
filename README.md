@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tasnemul
-- 👀 I’m interested in making changed of the future that everyone can imagine of
-- 🌱 I’m currently learning Python and HTML 
+- 👀 I’m interested in creating the future that everyone has imagined of
+- 🌱 I’m currently learning Python and Java 
 - 💞️ I’m looking to collaborate on projects that helps to change how we use internet 
 - 📫email me at tasnemul.aqeed@gmail.com for any further information!
 
