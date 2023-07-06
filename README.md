@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tasnemul
+- 👋 Hi, my name is @tas
 - 👀 I’m interested in creating the future that everyone has imagined of
 - 🌱 I’m currently learning Python and Java 
 - 💞️ I’m looking to collaborate on projects that helps to change how we use internet 
